@@ -264,7 +264,7 @@ yarn add -D tailwindcss postcss autoprefixer daisyUI
 npx tailwindcss init -p
 ```
 
-Configure tailwind.config.js
+Configure `tailwind.config.js`
 ```
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -282,7 +282,7 @@ module.exports = {
   plugins: [require('daisyui')]
 }
 ```
-Import tailwind styles at app/global.css
+Import tailwind styles at `app/global.css`
 
 ```
 @tailwind base;
