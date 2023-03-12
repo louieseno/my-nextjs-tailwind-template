@@ -291,4 +291,4 @@ Import tailwind styles at `app/global.css`
 ```
 
 
-That's all thank you!
+That's all, thank you!
